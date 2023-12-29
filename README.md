@@ -1,4 +1,4 @@
-# Netflix-Cloning
+# Netflix-Cloning #html #css #js
 Netflix Cloning Website project is a clone of the popular streaming service Netflix. It aims to replicate the core functionalities and user interface of Netflix.  
 
 
@@ -29,3 +29,5 @@ Play trailers
 Create and manage user profiles
 <br>
 Responsive design for various devices
+
+
