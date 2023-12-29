@@ -4,7 +4,7 @@ Netflix Cloning Website project is a clone of the popular streaming service Netf
 
 Table of Contents:
 
-Features\
+Features
 <br>
 Demo
 <br>
